@@ -7,7 +7,7 @@ public class Assignment2_Array {
 		// Semester-1
 		String[] Sem_1 = {"Mathematics-I","Physics","Chemistry","Computer Programming", "Engineering Drawing" ,"Basic Electrical Eng."};
 		
-		// Semester-3
+		// Semester-2
 		String[] Sem_2 = {"Mathematics II","Mechanics","Environmental Sci.","Basic Electronics","Engineering Physics","Engineering Graphics"};
 		
 		// Semester-3
